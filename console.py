@@ -58,6 +58,4 @@ found_artist = artist_repo.select(2)
 print(found_artist.__dict__)
 
 
-
-
 # pdb.set_trace()
